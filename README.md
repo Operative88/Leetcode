@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Operative88/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Operative88/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Operative88/Leetcode/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/Operative88/Leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Operative88/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Operative88/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
